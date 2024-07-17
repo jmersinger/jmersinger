@@ -1,5 +1,5 @@
 <h1> Hello! I'm Jude! :sunglasses:</h1>
-Welcome to my GitHub! Most of the projects I have on here are a combination of school-related project as well as some personal projects I wanted to make public. 
+Welcome to my GitHub! Most of the projects I have on here are a combination of school-related projects as well as some personal projects I wanted to make public. 
 
 <h2> About Me </h2>  
 <ul>
