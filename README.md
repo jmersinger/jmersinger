@@ -5,7 +5,7 @@ Welcome to my GitHub! Most of the projects I have on here are a combination of s
 <ul>
   <li><img src="https://cfbdynasty.com/wp-content/uploads/2019/03/usf-logo.png" title="USF" alt="USF" height="30"/>&nbsp; <font size="1000">Computer Science & Quantitative Economics Student at USF</font></li>
   <li><img src="https://companieslogo.com/img/orig/SNX-e4f20926.png?t=1683358921" title="TD SYNNEX" alt="TD SYNNEX" height="30";/>&nbsp;   Technical Scholar Intern at TD SYNNEX </li>
-  <li><img src="https://d2xo500swnpgl1.cloudfront.net/uploads/web/square-1633374314429.png" title="Scale AI" alt="Scale AI" height="30"/>&nbsp; Freelance AI Trainer at Outlier/Scale AI</li>
+  <li><img src="https://th.bing.com/th/id/OIP.XV7pO9nMwPDhK0-I2LcwQwAAAA?rs=1&pid=ImgDetMain" title="Headstarter AI" alt="Scale AI" height="30"/>&nbsp; Software Engineering Fellow at Headstarter AI</li>
   <li><img src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" title="LinkedIn" alt="LinkedIn" height="30"/>&nbsp; Feel free to connect: https://www.linkedin.com/in/jude-mersinger/
 </ul>
 
